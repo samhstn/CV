@@ -1,7 +1,7 @@
 
 # CV - Sam Houston
 I am a recent Bristol Maths graduate developing full stack web apps at Founders & Coders in Bethnal Green, London.
-I am a passionate Javascript and Node.js developer. I am love the process of making web applications from the frontend logic and design aspects to the querying of databases and writing the backend process. I am also a very creative person, composing film music and playing the piano in my free time.
+I am a passionate Javascript and Node.js developer.
 *****************************************************
 # SKILLS
 
@@ -41,10 +41,6 @@ I have developed skills that allow me to rapidly get familiar with a large codeb
 
 Worked on MVPs and projects to create web applications for clients across Europe.
 16-Week Intensive Web Development Course (Jan 2016 - April 2016)
-
-A life changing experience. I discovered my love for web development, learned a tremendous deal and above all, learned how to learn and help others learn.
-As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
-I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
 *********************************************
 
