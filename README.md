@@ -33,7 +33,7 @@ Giant's Shoulder
 ************************************************************************
 # EXPERIENCE
 
-![fac logo](projects/fac.png)
+[<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">](http://www.foundersandcoders.com/))
 
 Full Stack Freelance Developer (Jan 2016 - Present)
 
