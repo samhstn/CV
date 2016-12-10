@@ -1,17 +1,16 @@
-
 # Sam Houston
+
 I am a very passionate and motivated developer. I love problem solving and taking on new challenges.
 
 Since finishing my formal education, I have immersed myself in programming and have worked really hard in my exiciting new world of web/mobile development.
 
 I have been working as a full-stack developer for a number of companies and have specialised in using React + Redux in the front end and Node js in the backend.
 
+******
 
-*****************************************************
 # SKILLS
 
-I have been working on a variety of projects for clients, using the following technologies:
-
+I have aquired skills in the following technologies through client projects:
 
 |Languages   |Frameworks/libraries   |Testing      | Tools/Other      |Databases  |
 |:----------:|:---------------------:|:-----------:|:----------------:|:---------:|
