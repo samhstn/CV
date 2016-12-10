@@ -43,7 +43,7 @@ I always enjoy attending hackathons, here are some of the ones I have attended:
 
 # EXPERIENCE
 
-[<img src="ipcortex_banner.png" align="center" width="240px" />](https://www.ipcortex.co.uk/)
+[<img src="ipcortex_banner.png" align="right" height="150px" />](https://www.ipcortex.co.uk/)
 
 ### Developer (June 2016 - Present)
 
@@ -56,7 +56,7 @@ Building a platform for a customer service representative to chat via text, audi
 Building a chrome extension that can integrate with any CRM system to allow an admin to initiate and receive calls from within the browser as well as quickly source information about the incoming call
 Technologies used: Chrome extensions and WebRTC
 
-[<img src="dwyl_banner.png" align="center" width="240px" />](http://www.dwyl.io)
+[<img src="dwyl_banner.png" align="right" height="150px" />](http://www.dwyl.io)
 
 ### Developer (October 2016 - Present)
 
@@ -68,7 +68,7 @@ https://github.com/dwyl/goodparts
 
 https://github.com/dwyl/abase
 
-[<img src="founders_and_coders_banner.png" align="center" width="240px" />](http://www.foundersandcoders.com)
+[<img src="founders_and_coders_banner.png" align="right" width="150px" />](http://www.foundersandcoders.com)
 
 ### Full Stack Freelance Developer (January 2016 - Present)
 
