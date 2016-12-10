@@ -23,7 +23,8 @@ I have aquired skills in the following technologies through client projects:
 |Elm         | oh-my-zsh             |Enzyme       |Sockets           |
 |Python      |                       |Tape         |vim
 
-****************************************************************************
+******
+
 # HACKATHONS
 
 I always enjoy attending hackathons, here are some of the ones I have attended:
@@ -38,12 +39,38 @@ I always enjoy attending hackathons, here are some of the ones I have attended:
 
 * Edutech hackathon
 
-************************************************************************
+******
+
 # EXPERIENCE
+
+[<img src="ipcortex_banner.png" align="center" width="240px" />](https://www.ipcortex.co.uk/)
+
+### Developer (June 2016 - Present)
+
+##### Talk to Us (June 2016 - October 2016)
+
+Building a platform for a customer service representative to chat via text, audio or video with visitors to a website. It has to be easy for a web developer to integrate the system into their website. The product is currently being user tested at IPCortex **Technologies used**: _Postgres, Hapi, React and WebRTC
+
+##### CRM Chrome Extension (October 2016 - December 2016)
+
+Building a chrome extension that can integrate with any CRM system to allow an admin to initiate and receive calls from within the browser as well as quickly source information about the incoming call
+Technologies used: Chrome extensions and WebRTC
+
+[<img src="dwyl_banner.png" align="center" width="240px" />](http://www.dwyl.io)
+
+### Developer (October 2016 - Present)
+
+##### Good parts
+
+https://github.com/dwyl/goodparts
+
+##### Abase
+
+https://github.com/dwyl/abase
 
 [<img src="founders_and_coders_banner.png" align="center" width="240px" />](http://www.foundersandcoders.com)
 
-Full Stack Freelance Developer (Jan 2016 - Present)
+### Full Stack Freelance Developer (January 2016 - Present)
 
 I have developed skills that allow me to rapidly get familiar with a large codebase, write high quality, maintainable code, as well as responsive design, work with a multidisciplinary team, have great attention to detail and meet tight deadlines comfortably.
 
