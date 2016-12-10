@@ -27,7 +27,7 @@ I have aquired skills in the following technologies through client projects:
 
 # EXPERIENCE
 
-[<img src="ipcortex_banner.png" align="right" height="250px" />](https://www.ipcortex.co.uk/)
+[<img src="imgs/ipcortex_banner.png" align="right" height="250px" />](https://www.ipcortex.co.uk/)
 
 ### Developer (June 2016 - Present)
 
@@ -42,7 +42,7 @@ Technologies used: Chrome extensions and WebRTC
 
 ******
 
-[<img src="dwyl_banner.png" align="right" height="120px" />](http://www.dwyl.io)
+[<img src="imgs/dwyl_banner.png" align="right" height="120px" />](http://www.dwyl.io)
 
 ### Developer (October 2016 - Present)
 
@@ -56,7 +56,7 @@ https://github.com/dwyl/abase
 
 ******
 
-[<img src="founders_and_coders_banner.png" align="right" height="120px" />](http://www.foundersandcoders.com)
+[<img src="imgs/founders_and_coders_banner.png" align="right" height="120px" />](http://www.foundersandcoders.com)
 
 ### Full Stack Freelance Developer (November 2016 - Present)
 
