@@ -31,11 +31,11 @@ I have aquired skills in the following technologies through client projects:
 
 ### Developer (June 2016 - Present)
 
-#### Talk to Us (June 2016 - October 2016)
+#### Project: Talk to Us (June 2016 - October 2016)
 
 Building a platform for a customer service representative to chat via text, audio or video with visitors to a website. It has to be easy for a web developer to integrate the system into their website. The product is currently being user tested at IPCortex **Technologies used**: Postgres, Hapi, React and WebRTC
 
-#### CRM Chrome Extension (October 2016 - December 2016)
+#### Project: CRM Chrome Extension (October 2016 - December 2016)
 
 Building a chrome extension that can integrate with any CRM system to allow an admin to initiate and receive calls from within the browser as well as quickly source information about the incoming call
 **Technologies used**: Chrome extensions and WebRTC
@@ -46,11 +46,11 @@ Building a chrome extension that can integrate with any CRM system to allow an a
 
 ### Developer (October 2016 - Present)
 
-#### Good parts
+#### Project: Good parts
 
 https://github.com/dwyl/goodparts
 
-##### Abase
+##### Project: Abase
 
 https://github.com/dwyl/abase
 
