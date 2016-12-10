@@ -66,6 +66,16 @@ I love being part of the extraordinary community of software developers at Found
 
 ******
 
+### EDUCATION
+
+**Bristol University**, Mathematics (Bsc Hons) (2012 - 2015)
+
+**The London Oratory school**, A-Levels in Mathematics, Further Mathematics, Physics, Economics (2010 - 2012)
+
+**The London Oratory School**, 10 GCSEs, A*-B, (2005 - 2010)
+
+******
+
 # HACKATHONS
 
 I always enjoy attending hackathons, here are some of the ones I have attended:
