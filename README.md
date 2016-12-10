@@ -58,12 +58,11 @@ https://github.com/dwyl/abase
 
 [<img src="founders_and_coders_banner.png" align="right" height="120px" />](http://www.foundersandcoders.com)
 
-### Full Stack Freelance Developer (January 2016 - Present)
+### Full Stack Freelance Developer (November 2016 - Present)
 
-I have developed skills that allow me to rapidly get familiar with a large codebase, write high quality, maintainable code, as well as responsive design, work with a multidisciplinary team, have great attention to detail and meet tight deadlines comfortably.
+After my 16-Week Intensive Web Development Course (Jan 2016 - April 2016), while working as a freelance web developer, I was a mentor at Founders and Coders.
 
-Worked on MVPs and projects to create web applications for clients across Europe.
-16-Week Intensive Web Development Course (Jan 2016 - April 2016)
+I love being part of the extraordinary community of software developers at Founders & Coders. Teaching, learning and collaborating on the latest technologies and software craftsmanship.
 
 ******
 
