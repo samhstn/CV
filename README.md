@@ -25,22 +25,6 @@ I have aquired skills in the following technologies through client projects:
 
 ******
 
-# HACKATHONS
-
-I always enjoy attending hackathons, here are some of the ones I have attended:
-
-* Anna Freud
-
-* TadHack
-
-* On Purpose
-
-* Giant's Shoulder
-
-* Edutech hackathon
-
-******
-
 # EXPERIENCE
 
 [<img src="ipcortex_banner.png" align="right" height="250px" />](https://www.ipcortex.co.uk/)
@@ -81,6 +65,24 @@ I have developed skills that allow me to rapidly get familiar with a large codeb
 Worked on MVPs and projects to create web applications for clients across Europe.
 16-Week Intensive Web Development Course (Jan 2016 - April 2016)
 
-*********************************************
+******
+
+# HACKATHONS
+
+I always enjoy attending hackathons, here are some of the ones I have attended:
+
+* Anna Freud
+
+* TadHack
+
+* On Purpose
+
+* Giant's Shoulder
+
+* Edutech hackathon
+
+******
 
 [LinkedIn](https://www.linkedin.com/in/sam-houston-b8282b109?trk=nav_responsive_tab_profile_pic) | <sam@foundersandcoders.com> | [Codewars](http://www.codewars.com/users/shouston3)
+
+
