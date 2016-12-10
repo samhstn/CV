@@ -27,13 +27,13 @@ I have been working on a variety of projects for clients, using the following te
 ****************************************************************************
 # HACKATHONS
 
+I always enjoy attending hackathons, here are some of the ones I have attended:
+
 Anna Freud
-
 TadHack
-
 On Purpose
-
 Giant's Shoulder
+Edutech hackathon
 
 ************************************************************************
 # EXPERIENCE
