@@ -58,7 +58,7 @@ Technologies used: Chrome extensions and WebRTC
 
 ******
 
-[<img src="dwyl_banner.png" align="right" height="150px" />](http://www.dwyl.io)
+[<img src="dwyl_banner.png" align="right" height="120px" />](http://www.dwyl.io)
 
 ### Developer (October 2016 - Present)
 
@@ -72,7 +72,7 @@ https://github.com/dwyl/abase
 
 ******
 
-[<img src="founders_and_coders_banner.png" align="right" height="150px" />](http://www.foundersandcoders.com)
+[<img src="founders_and_coders_banner.png" align="right" height="120px" />](http://www.foundersandcoders.com)
 
 ### Full Stack Freelance Developer (January 2016 - Present)
 
