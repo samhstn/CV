@@ -8,16 +8,16 @@ I am a passionate Javascript and Node.js developer.
 I have been working on a variety of projects for clients, using the following technologies:
 
 
-|Languages   |Frameworks/libraries   |Testing | Tools/Other |Databases  |
-|:----------:|:---------------------:|:------:|:-----------:|:---------:|
-| Javascript |React.js               |Mocha   | WebRTC |PostgreSQL  
-| Node.js    | Bootstrap             |Jasmine | Npm    |Redis
-| CSS3       | Hapi.js               |Tape/tap| Heroku |MongoDB
-| HTML5      | Sass                  |Qunit   | Github | NoSql
-| Markdown   | React-Bootstrap       |Wrapping-tape   | Bash
-| Wireframes |  Redux                |Enzyme         |Chrome Dev Tools|
-| Handlebars |                    |  | Sockets.io               |
-| Python
+|Languages   |Frameworks/libraries   |Testing      | Tools/Other      |Databases  |
+|:----------:|:---------------------:|:-----------:|:----------------:|:---------:|
+|Javascript  | React.js              |Mocha        |WebRTC            |PostgreSQL  
+|Node.js     | Riot.js               |Jasmine      |Npm/Yarn          |Redis
+|CSS3        | Hapi.js               |Karma        |Heroku            |MongoDB
+|HTML5       | Sass                  |Chai/Expect  |Git/Github        |MySQL
+|Bash        | Bootstrap             |Nightwatch   |Bash              |PouchDB
+|Scala       | Redux                 |Sinon        |Chrome Dev Tools  |
+|Elm         | oh-my-zsh             |Enzyme       |Sockets           |
+|Python      |                       |Tape         |vim
 
 ****************************************************************************
 # HACKATHONS
