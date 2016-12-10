@@ -1,6 +1,6 @@
 # Sam Houston
 
-I am a very passionate and motivated developer. I love problem solving and taking on new challenges.
+I am a very passionate and motivated developer. I enjoy problem solving and taking on new challenges.
 
 Since finishing my formal education, I have immersed myself in programming and have worked really hard in my exiciting new world of web/mobile development.
 
@@ -33,12 +33,12 @@ I have aquired skills in the following technologies through client projects:
 
 #### Talk to Us (June 2016 - October 2016)
 
-Building a platform for a customer service representative to chat via text, audio or video with visitors to a website. It has to be easy for a web developer to integrate the system into their website. The product is currently being user tested at IPCortex **Technologies used**: _Postgres, Hapi, React and WebRTC
+Building a platform for a customer service representative to chat via text, audio or video with visitors to a website. It has to be easy for a web developer to integrate the system into their website. The product is currently being user tested at IPCortex **Technologies used**: Postgres, Hapi, React and WebRTC
 
 #### CRM Chrome Extension (October 2016 - December 2016)
 
 Building a chrome extension that can integrate with any CRM system to allow an admin to initiate and receive calls from within the browser as well as quickly source information about the incoming call
-Technologies used: Chrome extensions and WebRTC
+**Technologies used**: Chrome extensions and WebRTC
 
 ******
 
