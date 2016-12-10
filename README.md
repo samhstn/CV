@@ -43,7 +43,7 @@ I always enjoy attending hackathons, here are some of the ones I have attended:
 
 # EXPERIENCE
 
-[<img src="ipcortex_banner.png" align="right" height="150px" />](https://www.ipcortex.co.uk/)
+[<img src="ipcortex_banner.png" align="right" height="250px" />](https://www.ipcortex.co.uk/)
 
 ### Developer (June 2016 - Present)
 
@@ -68,7 +68,7 @@ https://github.com/dwyl/goodparts
 
 https://github.com/dwyl/abase
 
-[<img src="founders_and_coders_banner.png" align="right" width="150px" />](http://www.foundersandcoders.com)
+[<img src="founders_and_coders_banner.png" align="right" height="150px" />](http://www.foundersandcoders.com)
 
 ### Full Stack Freelance Developer (January 2016 - Present)
 
