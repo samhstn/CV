@@ -41,7 +41,7 @@ I always enjoy attending hackathons, here are some of the ones I have attended:
 ************************************************************************
 # EXPERIENCE
 
-[<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">](http://www.foundersandcoders.com/))
+[<img src="founders_and_coders_banner.png" align="center" width="240px" />](http://www.foundersandcoders.com)
 
 Full Stack Freelance Developer (Jan 2016 - Present)
 
@@ -52,14 +52,4 @@ Worked on MVPs and projects to create web applications for clients across Europe
 
 *********************************************
 
-LINKS
-
 [LinkedIn](https://www.linkedin.com/in/sam-houston-b8282b109?trk=nav_responsive_tab_profile_pic) | <sam@foundersandcoders.com> | [Codewars](http://www.codewars.com/users/shouston3)
-
-******************************************************************
-INTERESTS
-
-* Learning
-* Water Polo
-* Hackathons
-* Meetups
